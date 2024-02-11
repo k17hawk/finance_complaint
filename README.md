@@ -189,8 +189,9 @@ Every time batch prediction is run, read input file from , preprocess it and gen
 2) Clone the project.
 3) Create the conda environment with python requirements greater then 3.6.
 4) Run the train.py for training and test.py for testing.
-
-
+</br>
+</br>
+<img src="https://github.com/k17hawk/finance_complaint/blob/main/screenshots/Predict.png"/>
 
 <img src="https://github.com/k17hawk/finance_complaint/blob/main/screenshots/mongo_db.png"/>
 
