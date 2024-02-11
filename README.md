@@ -1,8 +1,10 @@
-Customer complaint prediction
+**Customer complaint prediction**
 A customer complaint is a formal or informal expression of dissatisfaction or displeasure from a customer about a product, service, or experience provided by a company. Customer complaints can be communicated through various channels, such as in-person interactions, phone calls, emails, social media, online reviews, or dedicated customer feedback forms. These complaints highlight areas where customers feel the company has failed to meet their expectations or fulfill its promises.
 Customer complaints are essential for companies for several reasons.
 
+```python
 Problem statement
+```
 The consumer Financial Bureau (CFPB) is a federal U.S. agency that act as a mediator when disputes aries betweeen financial institutions and consumers. Via a web form, consumers can send the agency a narrative of their dispute.
 
 They use Natural Language Processing(NLP) with machine learning models to process the issues text written in the complaint and other feature to predict either customer will dispute or not.
