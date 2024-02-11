@@ -191,11 +191,17 @@ Every time batch prediction is run, read input file from , preprocess it and gen
 4) Run the train.py for training and test.py for testing.
 </br>
 </br>
+<h1>Output file</h1>
 <img src="https://github.com/k17hawk/finance_complaint/blob/main/screenshots/Predict.png"/>
-
+</br>
+</br>
+<h1>MongoDB Model evaluation stage</h1>
 <img src="https://github.com/k17hawk/finance_complaint/blob/main/screenshots/mongo_db.png"/>
+</br>
+</br>
 
-
+<h1>Airflow 2.8.1</h1>
+<img src="https://github.com/k17hawk/finance_complaint/blob/main/screenshots/airflow.png"/>
 
 
 
