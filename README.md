@@ -192,7 +192,7 @@ Every time batch prediction is run, read input file from , preprocess it and gen
 
 
 
-
+<img src="https://github.com/k17hawk/finance_complaint/blob/main/screenshots/mongo_db.png"/>
 
 
 
